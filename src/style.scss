@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Dennis Sans', sans-serif;
+    ::-webkit-scrollbar {
+        width: 4px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background-color: #999D9E;;
+        width: 1px;
+        height: 4px;
+        border-radius: 30px;
+      }
+}
